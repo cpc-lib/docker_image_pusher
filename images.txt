@@ -21,7 +21,6 @@ apache/seata-server:2.3.0
 bladex/sentinel-dashboard:1.8.8
 apache/skywalking-ui:8.9.0
 apache/skywalking-oap-server:8.9.0
-xxl-job-admin:2.3.0
 rabbitmq:3.9.1-management
 haproxy:2.7.8
 redis:7.4.2
