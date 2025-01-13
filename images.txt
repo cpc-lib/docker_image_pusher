@@ -30,4 +30,5 @@
 #zookeeper:3.7.0
 #jenkins/jenkins:2.479.3
 #linuxserver/qbittorrent:4.6.0
-xuxueli/xxl-job-admin:2.5.0
+#xuxueli/xxl-job-admin:2.5.0
+linuxserver/jellyfin:nightly
