@@ -40,8 +40,8 @@
 #sheepkiller/kafka-manager:latest
 #nginx:1.22
 #rabbitmq:3.9.11-management
-elasticsearch:7.17.3
-logstash:7.17.3
-kibana:7.17.3
-mongo:4
-minio/minio:RELEASE.2025-06-13T11-33-47Z
+#elasticsearch:7.17.3
+#logstash:7.17.3
+#kibana:7.17.3
+#mongo:4
+minio/minio:RELEASE.2023-01-02T09-40-09Z
