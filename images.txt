@@ -35,7 +35,8 @@
 #eugencepoi/nsfw_api:latest
 #penndu/nsfw-api:latest
 #onlyoffice/documentserver:8.1.3
-wurstmeister/zookeeper:latest
-wurstmeister/kafka:latest
-sheepkiller/kafka-manager:latest
+#wurstmeister/zookeeper:latest
+#wurstmeister/kafka:latest
+#sheepkiller/kafka-manager:latest
+nginx:1.22
 
