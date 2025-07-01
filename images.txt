@@ -38,5 +38,6 @@
 #wurstmeister/zookeeper:latest
 #wurstmeister/kafka:latest
 #sheepkiller/kafka-manager:latest
-nginx:1.22
+#nginx:1.22
+rabbitmq:3.9.11-management
 
