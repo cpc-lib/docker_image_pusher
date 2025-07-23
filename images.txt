@@ -45,4 +45,5 @@
 #kibana:7.17.3
 #mongo:4
 #minio/minio:RELEASE.2023-01-02T09-40-09Z
-elastic/filebeat:7.17.3
+#elastic/filebeat:7.17.3
+johngong/baidupcs-web
