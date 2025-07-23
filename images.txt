@@ -48,3 +48,4 @@
 #elastic/filebeat:7.17.3
 #baidunetdisk
 fengci/baidupcs-web
+johngong/baidunetdisk
