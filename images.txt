@@ -49,4 +49,5 @@
 #baidunetdisk
 #fengci/baidupcs-web
 #johngong/baidunetdisk
-ubuntu:22.04
+#ubuntu:22.04
+ghcr.io/senshinya/moontv:latest
