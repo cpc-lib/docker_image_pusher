@@ -50,4 +50,5 @@
 #fengci/baidupcs-web
 #johngong/baidunetdisk
 #ubuntu:22.04
-ghcr.io/senshinya/moontv:latest
+#ghcr.io/senshinya/moontv:latest
+mrvautin/adminmongo
