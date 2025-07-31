@@ -51,4 +51,5 @@
 #johngong/baidunetdisk
 #ubuntu:22.04
 #ghcr.io/senshinya/moontv:latest
-mrvautin/adminmongo
+#mrvautin/adminmongo
+mongo:4.4.6
