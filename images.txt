@@ -56,6 +56,6 @@
 pingcap/pd:latest
 pingcap/tikv:latest
 pingcap/tidb:latest
-prom/pushgateway:v1.11.1
+prom/pushgateway:latest
 prom/prometheus:v2.2.1
 grafana/grafana:6.0.1
