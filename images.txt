@@ -53,9 +53,9 @@
 #ghcr.io/senshinya/moontv:latest
 #mrvautin/adminmongo
 #mongo:4.4.6
-pingcap/pd:latest
-pingcap/tikv:latest
-pingcap/tidb:latest
-prom/pushgateway:latest
-prom/prometheus:v2.2.1
-grafana/grafana:6.0.1
+pingcap/pd
+pingcap/tikv
+pingcap/tidb
+prom/pushgateway
+prom/prometheus
+grafana/grafana
