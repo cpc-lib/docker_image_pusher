@@ -52,4 +52,10 @@
 #ubuntu:22.04
 #ghcr.io/senshinya/moontv:latest
 #mrvautin/adminmongo
-mongo:4.4.6
+#mongo:4.4.6
+pingcap/pd:latest
+pingcap/tikv:latest
+pingcap/tidb:latest
+prom/pushgateway:v0.3.1
+prom/prometheus:v2.2.1
+grafana/grafana:6.0.1
