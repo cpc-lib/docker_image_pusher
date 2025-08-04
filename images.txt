@@ -60,5 +60,5 @@
 #prom/prometheus
 #grafana/grafana
 #pingcap/tispark
-mycat
-mycat-web
+manondidi/mycat
+coolflame/mycat-web
