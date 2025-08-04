@@ -59,4 +59,6 @@
 #prom/pushgateway
 #prom/prometheus
 #grafana/grafana
-pingcap/tispark
+#pingcap/tispark
+mycat
+mycat-web
