@@ -67,4 +67,4 @@
 #ynraju4/oracle18c
 #postgres:14.18
 #mrjin/yapi:latest
-bellsoft/liberica-openjdk-rocky:17.0.15-cds
+#bellsoft/liberica-openjdk-rocky:17.0.15-cds
