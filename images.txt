@@ -68,3 +68,4 @@
 #postgres:14.18
 #mrjin/yapi:latest
 #bellsoft/liberica-openjdk-rocky:17.0.15-cds
+portainer/portainer:1.24.1
