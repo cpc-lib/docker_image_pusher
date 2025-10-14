@@ -68,4 +68,6 @@
 #postgres:14.18
 #mrjin/yapi:latest
 #bellsoft/liberica-openjdk-rocky:17.0.15-cds
-portainer/portainer:1.24.1
+#portainer/portainer:1.24.1
+foxiswho/rocketmq:4.8.0
+iamverygood/rocketmq-console:4.7.1
