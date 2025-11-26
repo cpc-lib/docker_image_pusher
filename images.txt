@@ -72,5 +72,6 @@
 #foxiswho/rocketmq:4.8.0
 #iamverygood/rocketmq-console:4.7.1
 #rabbitmq:3.8-management
-nacos/nacos-server:latest
-rabbitmq:3.13.3-management
+#nacos/nacos-server:latest
+#rabbitmq:3.13.3-management
+openzipkin/zipkin:3.5
