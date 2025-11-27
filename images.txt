@@ -75,5 +75,6 @@
 #nacos/nacos-server:latest
 #rabbitmq:3.13.3-management
 #openzipkin/zipkin:3.5
-prom/prometheus:v3.7.3
-grafana/grafana:12.1
+#prom/prometheus:v3.7.3
+#grafana/grafana:12.1
+prom/mysqld-exporter:v0.18.0
