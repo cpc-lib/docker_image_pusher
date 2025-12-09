@@ -77,6 +77,7 @@
 #openzipkin/zipkin:3.5
 #prom/prometheus:v3.7.3
 #grafana/grafana:12.1
-prom/mysqld-exporter:v0.18.0
-confluentinc/cp-kafka:7.5.0
-confluentinc/cp-zookeeper:7.5.0
+#prom/mysqld-exporter:v0.18.0
+#confluentinc/cp-kafka:7.5.0
+#confluentinc/cp-zookeeper:7.5.0
+apache/rocketmq:5.1.0
