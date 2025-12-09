@@ -80,5 +80,5 @@
 #prom/mysqld-exporter:v0.18.0
 #confluentinc/cp-kafka:7.5.0
 #confluentinc/cp-zookeeper:7.5.0
-#apache/rocketmq:5.1.0
-apacherocketmq/rocketmq-dashboard:2.1.0
+apache/rocketmq:5.3.4
+#apacherocketmq/rocketmq-dashboard:2.1.0
