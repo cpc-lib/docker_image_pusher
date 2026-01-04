@@ -82,4 +82,5 @@
 #confluentinc/cp-zookeeper:7.5.0
 apache/rocketmq:5.3.4
 #apacherocketmq/rocketmq-dashboard:2.1.0
-postgres:17.7
+#postgres:17.7
+postgres:15
