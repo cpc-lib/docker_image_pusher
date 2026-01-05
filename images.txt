@@ -84,4 +84,5 @@ apache/rocketmq:5.3.4
 #apacherocketmq/rocketmq-dashboard:2.1.0
 #postgres:17.7
 #postgres:15
-canal/canal-server:v1.1.3
+canal/canal-server:v1.1.2
+
