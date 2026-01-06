@@ -94,5 +94,4 @@ apache/rocketmq:5.3.4
 #mysql:8.0.33
 #redis:7.2
 #dqops/apache-hbase-standalone:2.5.4
-#openeuler/hbase:latest
-harisekhon/hbase:2.1
+docker.io/library/eclipse-temurin:11-jre
