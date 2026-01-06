@@ -85,7 +85,8 @@ apache/rocketmq:5.3.4
 #postgres:17.7
 #postgres:15
 #canal/canal-server:v1.1.2
-mysql:8.0
-redis:7
-mongo:6
-docker.elastic.co/elasticsearch/elasticsearch:7.17.18
+#mysql:8.0
+#redis:7
+#mongo:6
+#docker.elastic.co/elasticsearch/elasticsearch:7.17.18
+docker.elastic.co/kibana/kibana:7.17.18
