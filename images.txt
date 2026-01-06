@@ -93,4 +93,5 @@ apache/rocketmq:5.3.4
 #apache/kafka:3.7.0
 #mysql:8.0.33
 #redis:7.2
-dqops/apache-hbase-standalone:2.5.4
+#dqops/apache-hbase-standalone:2.5.4
+harisekhon/hbase:2.5
