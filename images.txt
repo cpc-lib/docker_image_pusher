@@ -90,6 +90,7 @@ apache/rocketmq:5.3.4
 #mongo:6
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.18
 #docker.elastic.co/kibana/kibana:7.17.18
-apache/kafka:3.7.0
-mysql:8.0.33
-redis:7.2
+#apache/kafka:3.7.0
+#mysql:8.0.33
+#redis:7.2
+dqops/apache-hbase-standalone:2.5.4
