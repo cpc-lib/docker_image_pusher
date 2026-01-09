@@ -97,4 +97,5 @@ apache/rocketmq:5.3.4
 #eclipse-temurin:11-jre
 #rabbitmq:3.9.1-management
 #haproxy:2.7.8
-reasonduan/redis-manager
+#reasonduan/redis-manager
+mongo:6.0
