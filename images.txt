@@ -102,4 +102,6 @@ apache/rocketmq:5.3.4
 #maven:3.8-openjdk-11
 #node:16
 #nginx:1.23-alpine
-apache/superset:4.0.2
+#apache/superset:4.0.2
+maven:3.9.6-eclipse-temurin-8
+eclipse-temurin:8-jre
