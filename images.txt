@@ -103,7 +103,6 @@ apache/rocketmq:5.3.4
 #node:16
 #nginx:1.23-alpine
 mysql:8.0.36
-bitnami/kafka:latest
 debezium/connect:2.6
 curlimages/curl:8.5.0
 clickhouse/clickhouse-server:24.3
