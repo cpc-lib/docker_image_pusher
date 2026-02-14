@@ -108,3 +108,6 @@ apache/rocketmq:5.3.4
 #spoonest/clickhouse-tabix-web-client
 nacos/nacos-server:v2.3.2
 bladex/sentinel-dashboard:1.8.8
+dhi.io/etcd:3.5
+milvusdb/milvus:v2.6.8
+zilliz/attu:v2.6
