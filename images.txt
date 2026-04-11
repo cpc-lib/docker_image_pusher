@@ -1,8 +1,1 @@
-mysql:8.0.35
-minio/minio:RELEASE.2024-04-18T19-09-19Z
-redis:7.0
-nacos/nacos-server:v3.1.1
-apache/seata-server:2.6.0
-elasticsearch:7.17.21
-canal/canal-server:v1.1.7
-apache/rocketmq:5.2.0
+nacos/nacos-server:v2.2.3
