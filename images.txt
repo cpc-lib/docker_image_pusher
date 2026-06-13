@@ -1,1 +1,1 @@
-dm8:latest
+sizx/dm8:latest
