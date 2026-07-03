@@ -1,4 +1,6 @@
-mysql:8.4
-redis:7.4-alpine
-nacos/nacos-server:v2.5.1
+grafana/grafana:11.4.0
+prom/prometheus:v2.55.1
 bladex/sentinel-dashboard:1.8.8
+nacos/nacos-server:v2.3.2
+redis:7.2
+mysql:8.0
