@@ -1,6 +1,5 @@
-grafana/grafana:11.4.0
-prom/prometheus:v2.55.1
-bladex/sentinel-dashboard:1.8.8
+mysql:8.0.36
 nacos/nacos-server:v2.3.2
-redis:7.2
-mysql:8.0
+zookeeper:3.9
+xuxueli/xxl-job-admin:2.4.1
+powerjob/powerjob-server:4.3.9
