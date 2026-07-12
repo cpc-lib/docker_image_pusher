@@ -1,2 +1,2 @@
-powerjob/powerjob-mysql:5.1.2
-powerjob/powerjob-server:5.1.2
+powerjob/powerjob-mysql:4.3.9
+powerjob/powerjob-server:4.3.9
