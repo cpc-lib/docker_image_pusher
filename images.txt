@@ -1,3 +1,2 @@
-mysql:8.0.36
-powerjob/powerjob-mysql:latest
-powerjob/powerjob-server:latest
+powerjob/powerjob-mysql:5.1.2
+powerjob/powerjob-server:5.1.2
