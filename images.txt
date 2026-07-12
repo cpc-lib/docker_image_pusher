@@ -1,3 +1,1 @@
-powerjob/powerjob-worker-samples:latest
-powerjob/powerjob-mysql:latest
-powerjob/powerjob-server:latest
+powerjob/powerjob-server:v5.1.2
