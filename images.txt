@@ -1,2 +1,3 @@
-powerjob/powerjob-mysql:4.3.9
-powerjob/powerjob-server:4.3.9
+powerjob/powerjob-worker-samples:latest
+powerjob/powerjob-mysql:latest
+powerjob/powerjob-server:latest
