@@ -1,1 +1,1 @@
-tjcore/powerjob-server:latest
+influxdb:2.7-alpine
