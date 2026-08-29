@@ -1,1 +1,1 @@
-wiremock/wiremock:3.9.1
+apache/activemq-artemis:latest-alpine
