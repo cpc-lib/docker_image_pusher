@@ -1,4 +1,3 @@
-minio/minio:RELEASE.2024-10-13T13-34-11Z
 clamav/clamav:1.4
 opensearchproject/opensearch:2.18.0
 mysql:8.0
